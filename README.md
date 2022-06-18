@@ -27,7 +27,7 @@
 EXPO
 <엑스포사진 src="https://user-images.githubusercontent.com/67059713/174425770-4b9fbaab-1ffe-47e7-b8ef-fadb9f36fcf9.png" width="200" height="400"/>
 
-![엑스포사진](https://user-images.githubusercontent.com/67059713/174425794-4db88850-3b99-47e1-bcd8-806712d5a2c8.png)
+![엑스포사진](https://user-images.githubusercontent.com/67059713/174425794-4db88850-3b99-47e1-bcd8-806712d5a2c8.png){: width="100" height="100"}
 
 
 VISUAL STUDIO
