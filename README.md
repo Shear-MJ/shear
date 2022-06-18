@@ -17,21 +17,21 @@
 부가적인 기능으로 꿈다락 게임 및 심리테스트를 구현한다
 
 
-
+&nbsp;
 
 
 ## 학습자료
 
 사용한 Tool로는
 
-# EXPO
+EXPO
 
 
 <img src="https://user-images.githubusercontent.com/67059713/174425770-4b9fbaab-1ffe-47e7-b8ef-fadb9f36fcf9.png" width="200" height="200"/>
 
 
 
-# VISUAL STUDIO
+VISUAL STUDIO
 
 
 <img src="https://user-images.githubusercontent.com/67059713/174425970-b8171f9a-630b-4914-b69a-ac936a1caf52.png" width="100" height="100"/>
