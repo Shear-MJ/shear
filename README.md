@@ -30,8 +30,8 @@
 &nbsp;
 &nbsp;
 
-nomadcoders의 Reac Native 코스를 통한 학습 후 개발을 진행하였으며<br/>
-웹 사이트 제작에는 조코딩 유튜브를 참고해 진행하였다
+#### nomadcoders의 Reac Native 코스를 통한 학습 후 개발을 진행하였으며<br/>
+#### 웹 사이트 제작에는 조코딩 유튜브를 참고해 진행하였다
 
 ##### React Native 관련 학습자료 - nomadcoders
 ##### https://nomadcoders.co/react-native-for-beginners/lobby
