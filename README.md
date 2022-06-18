@@ -8,7 +8,8 @@
 
 ## Description
 
-코코팸 프로젝트는 2022년 홍제동 청소년 활동공간 꿈다락 코딩봉사단에서 시작한 프로젝트로 청소년들을 위한 홈페이지/어플리케이션 개발을 한다
+코코팸 프로젝트는 2022년 홍제동 청소년 활동공간 꿈다락 코딩봉사단에서 시작한 프로젝트로<br/>
+청소년들을 위한 홈페이지/어플리케이션 개발을 한다
 
 꿈다락 기관의 자체 홈페이지 개발과 연결되는 어플리케이션 개발을 중점으로 한다
 
@@ -19,14 +20,10 @@
 
 ## 학습자료
 
-사용한 Tool로는
-
-EXPO
+사용한 Tool로는 EXPO와 VISUAL STUDIO가 있다
 
 <img src="https://user-images.githubusercontent.com/67059713/174425770-4b9fbaab-1ffe-47e7-b8ef-fadb9f36fcf9.png" width="200" height="200"/>
 
-
-VISUAL STUDIO
 
 <img src="https://user-images.githubusercontent.com/67059713/174425970-b8171f9a-630b-4914-b69a-ac936a1caf52.png" width="100" height="100"/>
 
