@@ -4,8 +4,7 @@
 #### Project Execution period : 2022.04.~2022.12
 -----------------------
 
-
-
+&nbsp;
 
 ## Description
 
@@ -16,9 +15,7 @@
 홈페이지에는 청소년이 직접 만들어가는 게시판 기능
 부가적인 기능으로 꿈다락 게임 및 심리테스트를 구현한다
 
-
 &nbsp;
-
 
 ## 학습자료
 
@@ -26,13 +23,10 @@
 
 EXPO
 
-
 <img src="https://user-images.githubusercontent.com/67059713/174425770-4b9fbaab-1ffe-47e7-b8ef-fadb9f36fcf9.png" width="200" height="200"/>
 
 
-
 VISUAL STUDIO
-
 
 <img src="https://user-images.githubusercontent.com/67059713/174425970-b8171f9a-630b-4914-b69a-ac936a1caf52.png" width="100" height="100"/>
 
@@ -45,7 +39,6 @@ https://nomadcoders.co/react-native-for-beginners/lobby
 https://www.youtube.com/c/%EC%A1%B0%EC%BD%94%EB%94%A9JoCoding
 
 &nbsp;
-
 
 ## 역할배분
 
