@@ -34,10 +34,10 @@
 #### 웹 사이트 제작에는 조코딩 유튜브를 참고해 진행하였다
 
 ##### React Native 관련 학습자료 - nomadcoders
-##### https://nomadcoders.co/react-native-for-beginners/lobby
+https://nomadcoders.co/react-native-for-beginners/lobby
 
 ##### 웹 사이트 제작 관련 학습 자료 - 조코딩
-##### https://www.youtube.com/c/%EC%A1%B0%EC%BD%94%EB%94%A9JoCoding
+https://www.youtube.com/c/%EC%A1%B0%EC%BD%94%EB%94%A9JoCoding
 
 &nbsp;
 
