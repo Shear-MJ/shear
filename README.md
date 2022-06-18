@@ -25,12 +25,13 @@
 사용한 Tool로는
 
 EXPO
-<img src="https://user-images.githubusercontent.com/67059713/174425770-4b9fbaab-1ffe-47e7-b8ef-fadb9f36fcf9.png" width="300" height="300"/>
+<img src="https://user-images.githubusercontent.com/67059713/174425770-4b9fbaab-1ffe-47e7-b8ef-fadb9f36fcf9.png" width="200" height="200"/>
+
 
 
 
 VISUAL STUDIO
-<Visual_Studio_Icon_2019 svg src="https://user-images.githubusercontent.com/67059713/174425216-0d61a04f-44d6-44d8-b02f-c167c7bf38f0.png" width="300" height="300"/>
+<img src="https://user-images.githubusercontent.com/67059713/174425970-b8171f9a-630b-4914-b69a-ac936a1caf52.png" width="200" height="200"/>
 
 
 
