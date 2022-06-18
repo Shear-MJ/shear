@@ -25,7 +25,8 @@
 사용한 Tool로는
 
 EXPO
-<엑스포사진 src="https://user-images.githubusercontent.com/67059713/174425294-54553487-97b1-430d-a48f-1144d5ea9dfc.png" width="200" height="400"/>
+<엑스포사진 src="https://user-images.githubusercontent.com/67059713/174425770-4b9fbaab-1ffe-47e7-b8ef-fadb9f36fcf9.png" width="200" height="400"/>
+
 
 
 VISUAL STUDIO
