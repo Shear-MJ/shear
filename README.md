@@ -22,12 +22,16 @@
 
 사용한 Tool로는 EXPO와 VISUAL STUDIO가 있다
 
-<img src="https://user-images.githubusercontent.com/67059713/174425770-4b9fbaab-1ffe-47e7-b8ef-fadb9f36fcf9.png" width="200" height="200"/>          <img src="https://user-images.githubusercontent.com/67059713/174425970-b8171f9a-630b-4914-b69a-ac936a1caf52.png" width="150" height="150"/>
+<img src="https://user-images.githubusercontent.com/67059713/174425770-4b9fbaab-1ffe-47e7-b8ef-fadb9f36fcf9.png" width="200" height="200"/>        <img src="https://user-images.githubusercontent.com/67059713/174425970-b8171f9a-630b-4914-b69a-ac936a1caf52.png" width="150" height="150"/>
  
 
 
 
 &nbsp;
+&nbsp;
+
+nomadcoders의 Reac Native 코스를 통한 학습 후 개발을 진행하였으며<br/>
+웹 사이트 제작에는 조코딩 유튜브를 참고해 진행하였다
 
 React Native 관련 학습자료 - nomadcoders
 https://nomadcoders.co/react-native-for-beginners/lobby
