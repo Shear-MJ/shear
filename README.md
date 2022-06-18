@@ -36,7 +36,7 @@ VISUAL STUDIO
 
 <img src="https://user-images.githubusercontent.com/67059713/174425970-b8171f9a-630b-4914-b69a-ac936a1caf52.png" width="100" height="100"/>
 
-
+&nbsp;
 
 React Native 관련 학습자료 - nomadcoders
 https://nomadcoders.co/react-native-for-beginners/lobby
@@ -44,17 +44,7 @@ https://nomadcoders.co/react-native-for-beginners/lobby
 웹 사이트 제작 관련 학습 자료 - 조코딩
 https://www.youtube.com/c/%EC%A1%B0%EC%BD%94%EB%94%A9JoCoding
 
-
-
-
-## 역할배분
-
-#### 팀장: 손유진 (html,css)
-#### 서기: 윤주안 (Back end)
-#### 팀원: 임현지 (Front end, )
-#### 팀원: 하휘찬 (html,css)
-
-
+&nbsp;
 
 
 ## 역할배분
@@ -63,6 +53,7 @@ https://www.youtube.com/c/%EC%A1%B0%EC%BD%94%EB%94%A9JoCoding
 #### 서기: 윤주안 (Back end)
 #### 팀원: 임현지 (Front end, )
 #### 팀원: 하휘찬 (html,css)
+
 
 
 
